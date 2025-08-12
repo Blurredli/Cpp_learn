@@ -1,0 +1,11 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <RiderCodeStyleSettings>
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/LINKAGE_SPECIFICATION_BRACES/@EntryValue" value="NEXT_LINE" type="string" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/ALLOW_COMMENT_AFTER_LBRACE/@EntryValue" value="true" type="bool" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/CASE_BLOCK_BRACES/@EntryValue" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/EMPTY_BLOCK_STYLE/@EntryValue" />
+      <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/SIMPLE_BLOCK_STYLE/@EntryValue" />
+    </RiderCodeStyleSettings>
+  </code_scheme>
+</component>
