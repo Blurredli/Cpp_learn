@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4644f881-9d8f-4940-87b5-bbe991e003c6" name="更改" comment="5">
+      <change beforePath="$PROJECT_DIR$/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.clang-format" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1_Hello_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/1_Hello_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/easycode.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/easycode.ignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/cin中文乱码问题解决.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第一章/cin中文乱码问题解决.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/cout打印输出.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第一章/cout打印输出.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/hello_world.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第一章/hello_world.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三章/类似python的for高级循环.png" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第三章/类似python的for高级循环.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/99乘法表.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/99乘法表.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/if判断练习.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/if判断练习.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/新东西goto和标签.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/新东西goto和标签.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/猜数字游戏.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/猜数字游戏.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/逻辑判断的综合案例.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../heima_cpp_code/第二章/逻辑判断的综合案例.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Blurredli&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Blurredli/Cpp_learn.git&quot;,
+    &quot;accountId&quot;: &quot;04525c11-7688-4c6b-9ced-f3319bf2b35f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../heima_cpp_code/第二章/99乘法表.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../heima_cpp_code/第二章/新东西goto和标签.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../heima_cpp_code/第二章/猜数字游戏.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../heima_cpp_code/第二章/逻辑判断的综合案例.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/wincon.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1.3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="317o9kiigirqlxPIKh6umZIaRuQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ 文件.99乘法表.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.cin中文乱码问题解决.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.cin中文乱码问题解决.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.cout打印输出.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.hello_world.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.hello_world2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.if判断练习.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.新东西goto和标签.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.猜数字游戏.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.逻辑判断的综合案例.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake 应用程序.1_Hello_world.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Work_place/C++/Cpp_learn/1_Hello_world/main.cpp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C/C++&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work_place\C++\Cpp_learn\1_Hello_world\第一章" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ 文件.新东西goto和标签.cpp">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="99乘法表.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Hello_world" TARGET_NAME="99乘法表.cpp" CONFIG_NAME="99乘法表.cpp">
+      <option name="sourceFile" value="第二章\99乘法表.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="猜数字游戏.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Hello_world" TARGET_NAME="猜数字游戏.cpp" CONFIG_NAME="猜数字游戏.cpp">
+      <option name="sourceFile" value="第二章\猜数字游戏.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="逻辑判断的综合案例.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Hello_world" TARGET_NAME="逻辑判断的综合案例.cpp" CONFIG_NAME="逻辑判断的综合案例.cpp">
+      <option name="sourceFile" value="第二章\逻辑判断的综合案例.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="新东西goto和标签.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Hello_world" TARGET_NAME="新东西goto和标签.cpp" CONFIG_NAME="新东西goto和标签.cpp">
+      <option name="sourceFile" value="第二章\新东西goto和标签.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="if判断练习.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_Hello_world" TARGET_NAME="if判断练习.cpp" CONFIG_NAME="if判断练习.cpp">
+      <option name="sourceFile" value="第二章\if判断练习.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ 文件.99乘法表.cpp" />
+      <item itemvalue="C/C++ 文件.if判断练习.cpp" />
+      <item itemvalue="C/C++ 文件.新东西goto和标签.cpp" />
+      <item itemvalue="C/C++ 文件.猜数字游戏.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ 文件.新东西goto和标签.cpp" />
+        <item itemvalue="C/C++ 文件.99乘法表.cpp" />
+        <item itemvalue="C/C++ 文件.猜数字游戏.cpp" />
+        <item itemvalue="C/C++ 文件.if判断练习.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4644f881-9d8f-4940-87b5-bbe991e003c6" name="更改" comment="" />
+      <created>1754884322523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754884322523</updated>
+      <workItem from="1754884323606" duration="3714000" />
+      <workItem from="1754901040992" duration="4389000" />
+      <workItem from="1754921202428" duration="315000" />
+      <workItem from="1754978934327" duration="543000" />
+      <workItem from="1754979489175" duration="8469000" />
+      <workItem from="1755081181749" duration="272000" />
+    </task>
+    <task id="LOCAL-00001" summary="3">
+      <option name="closed" value="true" />
+      <created>1754900504923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754900504923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3">
+      <option name="closed" value="true" />
+      <created>1754900684505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754900684505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4">
+      <option name="closed" value="true" />
+      <created>1754982682311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754982682311</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5">
+      <option name="closed" value="true" />
+      <created>1754988811889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754988811889</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5">
+      <option name="closed" value="true" />
+      <created>1754988932774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754988932774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/../heima_cpp_code/第二章/猜数字游戏.cpp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
