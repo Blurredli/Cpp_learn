@@ -20,7 +20,7 @@ public:
     int age;          // 年龄
     string address;   // 地址
 
-    void say_hi()   // 自我介绍方法
+    void say_hi() const   // 自我介绍方法
     {
         cout << "学号: " << id << ", 姓名: " << name << ", 年龄: " << age << ", 地址: " << address << endl;
     }
@@ -43,8 +43,14 @@ int main ()
     stu.say_hi();                // 调用自我介绍方法
 
     class Student stu2 = {2, "李四", 22, "上海市"}; // 使用初始化列表创建对象
+
     cout << "我是 " << stu2.name << endl;
     stu2.say_hi();               // 调用自我介绍方法
+
+    class Student stu3{3, "王五", 21, "广州市"}; // 使用花括号初始化对象
+
+    cout << "我是 " << stu3.name << endl;
+    stu3.say_hi();
 
     return 0;
 }
